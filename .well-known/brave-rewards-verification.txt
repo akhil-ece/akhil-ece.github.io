@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: technicalsurfing.blogspot.com
+Token: 6b8e116f8f4a014740cba6b62cf26faa5829680683311dd8142399255e426f59
