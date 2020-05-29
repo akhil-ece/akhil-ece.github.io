@@ -1,0 +1,25 @@
+Start Time	Course	Youtube Link
+22-05-2020 03:00 PM	Signals and Systems	https://youtu.be/p1MQ_8qbqoQ
+22-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/rZCNOM_IZA4
+21-05-2020 03:00 PM	Signals and Systems	https://youtu.be/QdmsdeILDqk
+21-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/Q1jok-tEtIs
+20-05-2020 03:00 PM	Signals and Systems	https://youtu.be/n5kwgqEGeQs
+20-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/P9KRK4n5xus
+19-05-2020 03:00 PM	Signals and Systems	https://youtu.be/vZOve8XB-hU
+19-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/O7QnyR23Fz0
+18-05-2020 03:00 PM	Signals and Systems	https://youtu.be/rJ5hkp1z1NM
+18-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/JmqCHaMYuWA
+17-05-2020 03:00 PM	Signals and Systems	https://youtu.be/u_MPH4cTKGA
+17-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/UBMjJlVfeeg
+16-05-2020 03:00 PM	Signals and Systems	https://youtu.be/jiHPRMHP1CM
+16-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/jSJyVP_hndw
+15-05-2020 03:00 PM	Signals and Systems	https://youtu.be/Bsyx59G1obw
+15-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/hB0CMWLhEqw
+14-05-2020 03:00 PM	Signals and Systems	https://youtu.be/eWawxoHGw_k
+14-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/oBfQPwmuVG8
+13-05-2020 03:00 PM	Signals and Systems	https://youtu.be/p5z_q1W5QV4
+13-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/pB9jhDj8IhM
+12-05-2020 03:00 PM	Signals and Systems	https://youtu.be/jEgAfbo9AMs
+12-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/xBCt5F1kSRA
+11-05-2020 03:00 PM	Signals and Systems	https://youtu.be/ZVbhfGdx6sc
+11-05-2020 10:30 AM	Electronic Devices and Circuits	https://youtu.be/jzhpuUNGsRc
